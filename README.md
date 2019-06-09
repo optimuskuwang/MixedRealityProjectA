@@ -1,0 +1,251 @@
+# MixedRealityProjectA
+
+<html>
+<head>
+    <title>Mixed Reality</title>
+<style>
+*{
+	margin:0; padding:0;
+	font-family: '���� ����', 'Malgun Gothic', Gothic, sans-serif;
+}
+a{text-decoration: none;}
+li{list-style: none;}
+.pull-left{float: left}
+.pull-right{float: right};
+body{
+	width: 960px; 
+	margin: 0 auto;
+	background: #E6E6E6;
+}
+#page-wrapper{
+	//background-image:url('��.png');
+	//background-size:100%100%;
+	background:white;
+	background-repeat : no-repeat;
+	margin: 20px 10px; 
+	padding: 50px 10px;
+	border-radius: 50px;
+	box-shadow: 0 2px 6px rgba(100,100,100,0.3);
+}
+#main-header{padding: 40px 50px;}
+.master-title{
+	font-size: 30px;
+	color: #466093;
+}
+.master-description{
+	font-size: 15px; font-weight: 500; 
+	color: #7C96C9;
+}
+#main-navigation{
+	border-top: 1px solid #466093; 
+	border-bottom: 1px solid #466093; 
+	margin-bottom: 20px; 
+	height: 40px;
+}
+.outer-menu-item{
+	float: left; 
+	position: relative;
+}
+.outer-menu-item:hover{
+	background: #466093;
+	color: white;
+}
+.menu-title{
+	display: block;
+	height: 30px; line-height: 30px; 
+	text-align: center;
+	padding: 5px 20px;
+}
+.menu-title, .inner-menu{
+text-decoration:none; 
+display: block;
+width: 150px;
+font-size: 12px;
+font-weight: bold;
+}
+.inner-menu{
+color: #2d2d2d;
+background-color: white;
+border: solid 1px #7C96C9;
+margin-top: -1px;
+}
+.inner-menu{
+	display: none; 
+	position: absolute;
+	top: 40px; left: 0; 
+	width: 100%; 
+
+	background: white;
+	box-shadow: 0 2px 6px rgba(5,5,5,0.9);
+	z-index: 1000; 
+	text-align: center
+}
+.inner-menu-item > a{
+	display: block; 
+	padding: 5px 10px; 
+	color: black;
+}
+.inner-menu-item > a:hover{
+	background: #7C96C9; 
+	color: white;
+}
+.input-search{
+	display: block; 
+	float: left;
+	background-color: #FFFFFF; 
+	border: 1px solid #7C96C9; 
+	border-radius: 15px 0 0 15px; 
+	box-shadow: inset 0 1px 1px rgba(0,0,0,0.05); 
+	width: 120px; height: 24px; 
+	padding: 0 0 0 10px; 
+	font-size: 12px; 
+	color: #555555;
+}
+.input-search:focus{
+	border-color: rgba(82,168,236,0.8);
+	outline: 0;
+	box-shadow: inset 0 1px 1px rgba(0,0,0,0.05);
+}
+.input-search-submit{
+	display: block;
+	float: left; 
+	width: 50px; height: 26px;
+	border-radius: 0 15px 15px 0; 
+	border: 1px solid #CCCCCC;
+	margin-left: -1px;
+	vertical-align: top; 
+	display: inline-block;
+}
+#content{overflow: hidden;}
+#main-section{
+	float: auto; 
+	width: auto;
+
+}
+#main-aside{
+	float: right; 
+	width: auto;
+}
+article{
+	padding: 0 10px 20px 10px; 
+	border-bottom: 1px solid #C8C8C8;
+}
+.article-header{padding: 20px 0;}
+.article-title{
+	font-size: 25px; 
+	font-weight: 800; 
+	padding- bottom: 10px;
+}
+.article-date{font-size: 13px;}
+.article-body{
+	font-size: 14px;
+}
+.aside-list{padding: 10px 0 30px 0;}
+.aside-list > h3{
+	font-size: 15px;
+	font-weight: 600;
+}
+.aside-list li a{
+	margint-left: 8px; 
+	font-size: 13px; 
+	color: #6C6C6C;
+}
+.pull-left{
+position: relative;
+display: inline-block;
+}
+.outer-menu-item:hover .inner-menu{
+display: block;
+}
+.inner-menu{
+display: none;
+position: absolute;
+background-color: #f9f9f9;
+min-width: 160px;
+box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+z-index: 1;
+}
+</style>
+</head>
+<body onresize="parent.resizeTo(1240,768)" onload="parent.resizeTo(1240,768)">
+    <div align="center" id="page-wrapper">
+        <header id="main-header">
+            <hgroup>
+
+            </hgroup>
+        </header>
+
+
+        <div id="content">
+            <section id="main-section">
+                <article>
+                    <div class="article-header">
+
+                    </div>
+                    <div class="article-body">
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+ 		<br />
+                        <br />
+
+
+
+                <h1 align="center" class="master-title"><font size="50">ȥ������</font></h1>
+                <h2 align="center" class="master-description">Mixed Reality</h2>
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+
+
+
+
+
+	<p align="center"><b>
+	<a href="�ȿ�.html"><img src="�Ұ�.png" onmouseover="this.src='�Ұ�2.png'" onmouseout="this.src='�Ұ�.png'" width="200" heigt="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
+	<a href="�ȿ�.html"><img src="�ֿ���.png" onmouseover="this.src='�ֿ���2.png'" onmouseout="this.src='�ֿ���.png'" width="200" heigt="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
+	<a href="�ȿ�.html"><img src="ü��.png" onmouseover="this.src='ü��2.png'" onmouseout="this.src='ü��.png'"width="200" heigt="200"></a> 
+
+
+
+
+ 		<br />
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+ 		<br />
+                        <br />
+                        <br />
+
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+ 		<br />
+                        <br />
+
+
+                    </div>
+                </article>
+            </section>
+          
+        </div>
+        <footer id="main-footer">
+	<h2 align="center" class="master-description"><font color="gray"><br /><br /><br />
+				��2019 by Mixed Reality. Proudly created with J.H.J</font></h2>
+        </footer>
+    </div>
+</body>
+</html>
+
