@@ -6,7 +6,7 @@
 <style>
 *{
 	margin:0; padding:0;
-	font-family: '���� ����', 'Malgun Gothic', Gothic, sans-serif;
+	font-family: '맑은 고딕', 'Malgun Gothic', Gothic, sans-serif;
 }
 a{text-decoration: none;}
 li{list-style: none;}
@@ -18,7 +18,7 @@ body{
 	background: #E6E6E6;
 }
 #page-wrapper{
-	//background-image:url('��.png');
+	//background-image:url('뿌.png');
 	//background-size:100%100%;
 	background:white;
 	background-repeat : no-repeat;
@@ -194,7 +194,7 @@ z-index: 1;
 
 
 
-                <h1 align="center" class="master-title"><font size="50">ȥ������</font></h1>
+                <h1 align="center" class="master-title"><font size="50">혼합현실</font></h1>
                 <h2 align="center" class="master-description">Mixed Reality</h2>
                         <br />
                         <br />
@@ -206,9 +206,9 @@ z-index: 1;
 
 
 	<p align="center"><b>
-	<a href="�ȿ�.html"><img src="�Ұ�.png" onmouseover="this.src='�Ұ�2.png'" onmouseout="this.src='�Ұ�.png'" width="200" heigt="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
-	<a href="�ȿ�.html"><img src="�ֿ���.png" onmouseover="this.src='�ֿ���2.png'" onmouseout="this.src='�ֿ���.png'" width="200" heigt="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
-	<a href="�ȿ�.html"><img src="ü��.png" onmouseover="this.src='ü��2.png'" onmouseout="this.src='ü��.png'"width="200" heigt="200"></a> 
+	<a href="안에.html"><img src="소개.png" onmouseover="this.src='소개2.png'" onmouseout="this.src='소개.png'" width="200" heigt="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
+	<a href="안에.html"><img src="주요기능.png" onmouseover="this.src='주요기능2.png'" onmouseout="this.src='주요기능.png'" width="200" heigt="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
+	<a href="안에.html"><img src="체험.png" onmouseover="this.src='체험2.png'" onmouseout="this.src='체험.png'"width="200" heigt="200"></a> 
 
 
 
@@ -243,7 +243,7 @@ z-index: 1;
         </div>
         <footer id="main-footer">
 	<h2 align="center" class="master-description"><font color="gray"><br /><br /><br />
-				��2019 by Mixed Reality. Proudly created with J.H.J</font></h2>
+				ⓒ2019 by Mixed Reality. Proudly created with J.H.J</font></h2>
         </footer>
     </div>
 </body>
